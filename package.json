@@ -18,7 +18,7 @@
     "decorator-cache-getter": "^1.0.0",
     "express": "^4.17.1",
     "fastest-levenshtein": "^1.0.12",
-    "frida": "^16.1.3",
+    "frida": "^16.0.5",
     "frida-load": "^1.0.0",
     "moment": "^2.29.1",
     "node-datetime": "^2.1.2",
